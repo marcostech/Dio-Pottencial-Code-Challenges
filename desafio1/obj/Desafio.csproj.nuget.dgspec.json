@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DOTNET\\Desafio\\Desafio.csproj": {}
+    "C:\\DOTNET\\Dio-Pottencial-Code-Challenges\\desafio1\\Desafio.csproj": {}
   },
   "projects": {
-    "C:\\DOTNET\\Desafio\\Desafio.csproj": {
+    "C:\\DOTNET\\Dio-Pottencial-Code-Challenges\\desafio1\\Desafio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DOTNET\\Desafio\\Desafio.csproj",
+        "projectUniqueName": "C:\\DOTNET\\Dio-Pottencial-Code-Challenges\\desafio1\\Desafio.csproj",
         "projectName": "Desafio",
-        "projectPath": "C:\\DOTNET\\Desafio\\Desafio.csproj",
+        "projectPath": "C:\\DOTNET\\Dio-Pottencial-Code-Challenges\\desafio1\\Desafio.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\DOTNET\\Desafio\\obj\\",
+        "outputPath": "C:\\DOTNET\\Dio-Pottencial-Code-Challenges\\desafio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
