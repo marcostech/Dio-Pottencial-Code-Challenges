@@ -1,0 +1,15 @@
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\bin\Debug\net6.0\desafio3.exe
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\bin\Debug\net6.0\desafio3.deps.json
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\bin\Debug\net6.0\desafio3.runtimeconfig.json
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\bin\Debug\net6.0\desafio3.dll
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\bin\Debug\net6.0\desafio3.pdb
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.csproj.AssemblyReference.cache
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfoInputs.cache
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.AssemblyInfo.cs
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.csproj.CoreCompileInputs.cache
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.dll
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\refint\desafio3.dll
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.pdb
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\desafio3.genruntimeconfig.cache
+C:\DOTNET\Dio-Pottencial-Code-Challenges\desafio3\obj\Debug\net6.0\ref\desafio3.dll
